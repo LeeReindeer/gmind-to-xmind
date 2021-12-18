@@ -1,6 +1,6 @@
 # gmind2xmind
 
-Convert [gmind](https://gitmind.cn/) file to xmind.
+Convert [GitMind](https://gitmind.cn/)'s gmind file to xmind.
 
 - Support Hyper link
 - Support note
