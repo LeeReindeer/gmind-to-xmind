@@ -1,0 +1,4 @@
+*.gmind
+*.xmind
+*.json
+.DS_Store
