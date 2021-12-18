@@ -93,8 +93,10 @@ def add_manifest(path):
     os.rename(zipName, xmindName)
 
 
-files = os.listdir(".")
-for f in files:
-    if f.endswith(".gmind"):
-        print(f)
-        convert_gmind_to_xmind(f)
+convert_gmind_to_xmind("Test.gmind")
+
+# files = os.listdir(".")
+# for f in files:
+#   if f.endswith(".gmind"):
+#   print(f)
+#   convert_gmind_to_xmind(f)
